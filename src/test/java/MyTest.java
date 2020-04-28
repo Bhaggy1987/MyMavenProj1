@@ -5,7 +5,7 @@ public class MyTest {
 
     @Test
     public void myTest1(){
-        System.out.println("Test Case1 MODIFIED");
+        System.out.println("Test Case1 MODIFIEDnew");
     }
 
 }
